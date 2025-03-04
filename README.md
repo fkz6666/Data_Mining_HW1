@@ -12,13 +12,14 @@ Below is a visualization showcasing the distribution of sleep quality across dif
 
 ![Our Visualization](./Our_Visualization.png)
 
-*Figure 1: Distribution of Sleep Quality by Gender*
+* Figure 1: Our Visualization Work
 
 ## Repository Structure
 
-- **/data**: Contains the dataset used for the analysis.
-- **/notebooks**: Jupyter notebooks with the code for data analysis and visualization.
-- **/results**: Output files, including visualizations and statistical results.
+- **data**: Contains the dataset used for the analysis.
+- **notebooks**: Jupyter notebooks with the code for data analysis and visualization.
+- **results**: Output files, mainly including visualizations.
+- **report**: Final report in PDF format.
 - **README.md**: This file, providing an overview of the project.
 
 ## Getting Started
